@@ -1,5 +1,5 @@
 /* Create a `name` variable and assign it a String value */
-var name = "Jon";
+var name = "Jojo";
 
 /* Create a `person` variable and give it 2 properties,
  * `name`, assign it the same name as before,
