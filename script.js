@@ -28,6 +28,8 @@ function greet(name){
 
   if (person.age >= 16){
    canDrive = true;
+  }else{
+    canDrive = false;
   }
 
 
