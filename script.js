@@ -1,13 +1,13 @@
 /* Create a `name` variable and assign it a String value */
-var name = "Jojo";
+var name = "Isaiah";
 
 /* Create a `person` variable and give it 2 properties,
  * `name`, assign it the same name as before,
  * as well as an `age` (number);
  */
 var person = {
-  name: name,
-  age: 17
+  name: 'Isaiah',
+  age: 18
 }
 
 
